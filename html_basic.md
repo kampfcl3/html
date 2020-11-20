@@ -18,9 +18,9 @@ JavaScript：一門函式先行的直譯式程式語言，經常用在呈現網�
 舉例來說，各瀏覽器對HTML、CSS以及JavaScript支援的程度或呈現方式就有所不同。
 光是一個下拉選單的HTML描述語言，在不同的瀏覽器內呈現的效果就有所不同。
 ```
-########### ie
+###### ie
 ![image](https://github.com/kampfcl3/html/blob/main/pic/IE.png)
-########### chrome
+###### chrome
 ![image](https://github.com/kampfcl3/html/blob/main/pic/google.png)
 ```
 其中以舊版的IE 6存在最多問題，存在元素堆疊Bug、幽靈字元（字在IE瀏覽器上消失）、元素的消失（陰影或漸層效果看不到）。
